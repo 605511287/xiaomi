@@ -1,0 +1,202 @@
+/*
+* @Author: liruibo
+* @Date:   2018-04-23 16:59:48
+* @Last Modified by:   liruibo
+* @Last Modified time: 2018-04-25 22:06:11
+*/
+*{
+	margin: 0;
+	padding: 0;
+	list-style: none;	
+}
+a{
+	text-decoration: none;
+}
+img{
+	display: block;	
+}
+.bigBox{
+	width: 1226px;
+	height: 672px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+.bigBox .topBox{
+	width: 1226px;
+	height: 58px;
+
+}
+.bigBox .topBox .title1{
+	width: 120px;
+	height: 100%;
+
+	float: left;
+	font-size: 22px;
+	font-weight: 200;
+	line-height: 58px;
+	color: #333;
+}
+.bigBox .topBox .title2{
+	width: 500px;
+	height: 100%;
+	float: right;
+
+
+}
+.bigBox .topBox .title2 .title3{
+	width: 32px;
+	height: 100%;
+
+	float: right;
+	line-height: 58px;
+	font-size: 16px;
+	margin-left: 30px;
+
+}
+.bigBox .topBox .title2 .title4{
+	width: 64px;
+	height: 100%;
+
+	float: right;
+	line-height: 58px;
+	font-size: 16px;
+	margin-left: 30px;
+}
+.bigBox .bodyBox{
+	width: 1226px;
+	height: 614px;
+	background-color: #F5F5F5; 
+}
+.bigBox .bodyBox .smallBox{
+	width: 234px;
+	height: 300px;
+	background-color: red;
+    float: left;
+	margin-bottom: 14px; 	
+}
+
+.bigBox .bodyBox .smallBox1{
+	width: 234px;
+	height: 300px;
+
+    float: left;
+    margin-bottom: 14px;
+
+}
+.bigBox .bodyBox .smallBox1 .a{
+	display: block;
+	width: 234px;
+	height: 300px;	
+}
+.bigBox .bodyBox .smallBox2{
+	width: 234px;
+	height: 300px;
+	background-color: #FFFFFF;
+    float: left;
+    margin-bottom: 14px;
+    margin-left: 14px;
+    text-align: center;
+}	
+.bigBox .bodyBox .smallBox2 .imgBox{
+	width: 150px;
+	height: 150px;
+	margin: 34px auto ;
+}
+.bigBox .bodyBox .smallBox2 .imgBox .a{
+	display: block;
+	width: 150px;
+	height: 150px;
+}
+.bigBox .bodyBox .smallBox2 .h1{
+	margin-top: 30px;
+	color: #333;
+	font-size: 14px;
+	font-weight: 400;
+	
+}
+.bigBox .bodyBox .smallBox2 .h2{
+	
+	margin-top: 6px;
+	font-size: 12px;
+	color: #b0b0b0;
+}
+.bigBox .bodyBox .smallBox2 .h3{
+	margin: 10px ;
+	color: #ff6700;
+}	
+.bigBox .bodyBox .smallBox3{
+	width: 234px;
+	height: 300px;
+	background-color: #F5F5F5;
+    float: left;
+    margin-bottom: 14px;
+    margin-left: 14px;
+    text-align: left;
+
+}
+.bigBox .bodyBox .smallBox3 .smallBox4{
+	width: 234px;
+	height: 143px;
+	margin-bottom: 14px;
+	background-color: #FFFFFF;
+	float: left;
+}
+.bigBox .bodyBox .smallBox3 .smallBox4 .h4{
+	font-size: 14px;
+	width:94px ;
+	height: 21px;
+	font-weight: 400;
+	line-height: 100px;
+	margin-left: 30px;
+
+}
+.bigBox .bodyBox .smallBox3 .smallBox4 .h5{
+	font-size: 12px;
+	color: #ff6700;
+	margin-left: 30px;
+	width: 94px;
+	height: 21px;
+	line-height: 120px;
+}
+.bigBox .bodyBox .smallBox3 .smallBox4 .imgBox {	
+	width: 80px;
+	height: 80px;
+	margin-left: 130px;
+}
+.bigBox .bodyBox .smallBox3 .smallBox4 .imgBox .a{
+	display: block;
+	width: 80px;
+	height: 80px;
+}
+.bigBox .bodyBox .smallBox3 .smallBox5{
+	width: 234px;
+	height: 143px;
+	margin-bottom: 14px;
+	background-color: #FFFFFF;
+	float: left;
+}
+.bigBox .bodyBox .smallBox3 .smallBox5 .h6{
+	margin: 0 110px 0 30px;
+	width: 94px;
+	height: 27px;
+	font-size: 18px;
+	color: #333;
+	line-height: 80px;
+}
+.bigBox .bodyBox .smallBox3 .smallBox5 .h7{
+  	margin-left: 30px;
+  	width: 94px;
+  	height: 18px;
+	font-size: 12px;
+	color: #757575;	
+	line-height: 80px;
+}
+.bigBox .bodyBox .smallBox3 .smallBox5 .imgBox{
+	width: 55px;
+	height: 55px;
+	margin-left: 130px;
+}
+
+
+
+
